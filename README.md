@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amartya26
 - 👀 I’m interested in Web development and Data analytics
-- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me @vermaamartya026@gmail.com
 
